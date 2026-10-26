@@ -1,0 +1,98 @@
+{
+  "description": "Clean, independent working-tree snapshot, not a Git fork or repository.",
+  "original_history_included": false,
+  "license_assigned": false,
+  "files": [
+    {
+      "path": ".gitignore",
+      "size_bytes": 588,
+      "sha256": "8502b1583605398b92416d8ae2a3bf2cf5d154efb1b0921ea724d8577bad6064"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 10639,
+      "sha256": "b8ccacaa9311337ecd3f4cff4c871b75be00eb67eda0a2894fa979a12e1e30f1"
+    },
+    {
+      "path": "config.py",
+      "size_bytes": 3902,
+      "sha256": "2d5cb3da996500933e316a1a9adb8f36cce62286827679b9c9ac9934fd7ad7f8"
+    },
+    {
+      "path": "dataset.py",
+      "size_bytes": 7131,
+      "sha256": "17e9b7150e881d894ff60aea37c88bb15a5043e8cfdf1447a0489afc5cc55328"
+    },
+    {
+      "path": "demo.py",
+      "size_bytes": 7185,
+      "sha256": "332f36cac94d6ddb59b862f718ef540c0e12da1d3cec30941f6ec5a0507f13fa"
+    },
+    {
+      "path": "docs/SOURCES_AND_RIGHTS.md",
+      "size_bytes": 3760,
+      "sha256": "6fdee430549c76c6e6fe314f6417b4a14c11122fd6e0b6125a0025a8945b31af"
+    },
+    {
+      "path": "examples/synthetic_scene_graph.json",
+      "size_bytes": 854,
+      "sha256": "d3a1472f6856161c14bcb697b0d3373fbba1cfffa45712f026f1a849bd37cf54"
+    },
+    {
+      "path": "main.py",
+      "size_bytes": 8174,
+      "sha256": "bda3c4b15ac32a037c320746a79c919319d1c063e73284dfa5929b88f6bc6a60"
+    },
+    {
+      "path": "model.py",
+      "size_bytes": 18962,
+      "sha256": "4ab3322c6b5a5aa766dcacdc52dcd91cbd49a4644f865ecf08828b335dc678c0"
+    },
+    {
+      "path": "plot_training.py",
+      "size_bytes": 7510,
+      "sha256": "80722ad8d88e036bed066ea0779ae06f74a9960f19875a111c9bff6b2f9f42e9"
+    },
+    {
+      "path": "requirements-pyg.txt",
+      "size_bytes": 36,
+      "sha256": "51810fdbd4976736849cebef9b06d02bfac4f7c61879e553c8cc9062a9bdaa06"
+    },
+    {
+      "path": "requirements.txt",
+      "size_bytes": 56,
+      "sha256": "806913d9ed18d109dad0572c8647113121c3f067ce7e835d4078866b90182940"
+    },
+    {
+      "path": "results/validation_metrics_20260506.json",
+      "size_bytes": 3703,
+      "sha256": "517caf82ea98f838460928e0e6425d444cc44ed19c47b0205694633d0218b357"
+    },
+    {
+      "path": "run_full_pipeline.sh",
+      "size_bytes": 2449,
+      "sha256": "6f8e5736ca7768ad11d5ee955c4fbebb0e89372f59fb4987fd24d63a43db5653"
+    },
+    {
+      "path": "test.py",
+      "size_bytes": 35414,
+      "sha256": "3b80388791e596f88d5780b3a6b783f4d9c3a30a0805681d522c2646f3b176f7"
+    },
+    {
+      "path": "train.py",
+      "size_bytes": 57094,
+      "sha256": "22da4ebbf80f59f9e3debc1d24773a9ea6a247f0fcf05fb6462ec278bb2b3acd"
+    },
+    {
+      "path": "validate.sh",
+      "size_bytes": 5858,
+      "sha256": "07427a11cc400c335a4d4227b2496a4804fdac4c9ecd7e70efd0594bfc1559fb"
+    },
+    {
+      "path": "visualize_scene_graph.py",
+      "size_bytes": 4760,
+      "sha256": "0a44c04f855d6c338d7ebea75c9b0d6c8ea8563eb7918b9a4229122627ab95a1"
+    }
+  ],
+  "provenance": "Private original source and revision are documented in a separate, non-published audit report."
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "image_filename": "SYNTHETIC_NO_IMAGE_NO_MODEL_INFERENCE",
+    "nodes": [
+      {
+        "node_id": 0,
+        "attributes": {
+          "color": "red",
+          "material": "rubber",
+          "size": "small",
+          "shape": "sphere"
+        },
+        "pixel_coords": {
+          "x": 55,
+          "y": 105
+        }
+      },
+      {
+        "node_id": 1,
+        "attributes": {
+          "color": "blue",
+          "material": "metal",
+          "size": "large",
+          "shape": "cube"
+        },
+        "pixel_coords": {
+          "x": 160,
+          "y": 105
+        }
+      }
+    ],
+    "edges": [
+      {
+        "subject": 0,
+        "object": 1,
+        "predicate": "left",
+        "score": 1
+      },
+      {
+        "subject": 1,
+        "object": 0,
+        "predicate": "right",
+        "score": 1
+      }
+    ]
+  }
+]

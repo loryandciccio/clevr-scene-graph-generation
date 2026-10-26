@@ -1,0 +1,49 @@
+# Local CLEVR inputs and any third-party data
+CLEVR_v1.0/
+CLEVER/
+data/
+datasets/
+
+# Model training weights, experiments and generated predictions
+runs/
+checkpoints/
+weights/
+model_weights/
+*.pth
+*.pth.tar
+*.pt
+*.ckpt
+*.onnx
+predicted_scene_graphs*.json
+*.log
+
+# Local environments, caches and operating system files
+.venv/
+venv/
+env/
+envs/
+.cache/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
+dist/
+build/
+*.egg-info/
+.env
+.env.*
+!.env.example
+
+# Large local archives and hidden credentials
+*.zip
+*.tar
+*.tar.gz
+*.pem
+*.key
+*.p12
+*.pfx
